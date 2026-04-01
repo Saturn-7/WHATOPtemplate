@@ -1,0 +1,15 @@
+{
+  "contact": "https://discord.gg/62g9EUBEKF",
+  "templates": [
+    {
+      "name": "SCUG",
+      "sources": [
+        "https://cdn.discordapp.com/attachments/1133690724811026445/1488905696391991336/RRainworld.png?ex=69ce7afc&is=69cd297c&hm=cee333cc0fe67e783f16dba997477ff5e5098224c6c610d64351a9debc588b8c&"
+      ],
+      "x": 270,
+      "y": 449
+    }
+  ],
+  "whitelist": [],
+  "blacklist": []
+}
