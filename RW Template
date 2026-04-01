@@ -12,4 +12,18 @@
   ],
   "whitelist": [],
   "blacklist": []
-}
+},
+{
+  "contact": "https://discord.gg/UxDu3VFh8U",
+  "templates": [
+    {
+      "name": "Girls",
+      "sources": [
+        "https://media.discordapp.net/attachments/1243801991432638504/1488914052792189170/image.png?ex=69ce82c4&is=69cd3144&hm=c737199967ee64394155fdbd205391d2d005004b7662415a66af32877cf9bf82&=&format=webp&quality=lossless&width=1470&height=630"
+      ],
+      "x": 320,
+      "y": 454
+    }
+  ],
+  "whitelist": [],
+  "blacklist": []
