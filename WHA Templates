@@ -1,1 +1,15 @@
-
+{
+  "contact": "https://discord.gg/UxDu3VFh8U",
+  "templates": [
+    {
+      "name": "Witch Hat Atelier Girls",
+      "sources": [
+        "https://media.discordapp.net/attachments/1243799423264493578/1489529898367455302/Girls_Peace_Deal.png?ex=69d0c051&is=69cf6ed1&hm=b9452622705e074c256d3b9168b06c4ac9a010ff8574d14606f867e7efeba506&=&format=webp&quality=lossless&width=210&height=90"
+      ],
+      "x": 320,
+      "y": 454
+    }
+  ],
+  "whitelist": [],
+  "blacklist": []
+}
