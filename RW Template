@@ -18,6 +18,14 @@
       "y": 362
     },
     {
+      "name": "Hoshi The Cat's Iron Man",
+      "sources": [
+        "https://media.discordapp.net/attachments/1489079506139353201/1489749669377736905/ironman.png?ex=69d18cff&is=69d03b7f&hm=4ab682ec17d5cc12896cde321d79d2f659d9da7c9f1d8a52782c89e1c634aee6&=&format=webp&quality=lossless&width=30&height=32"
+      ],
+      "x": 212,
+      "y": 136
+    },
+    {
       "name": "Witch Hat Atelier Girls",
       "sources": [
         "https://media.discordapp.net/attachments/1243799423264493578/1489639708047704074/Girls_Final_Form.png?ex=69d12696&is=69cfd516&hm=6ac9b8d31c13d173f283df3b70fac33cc1eba4af357403399bcf5ccdcca2379e&=&format=webp&quality=lossless&width=210&height=90"
