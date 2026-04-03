@@ -13,3 +13,17 @@
   "whitelist": [],
   "blacklist": []
 }
+{
+  "contact": "https://discord.gg/62g9EUBEKF",
+  "templates": [
+    {
+      "name": "The Slugcats",
+      "sources": [
+        "https://media.discordapp.net/attachments/1489079616378372307/1489450075368325233/Scugs.png?ex=69d075fa&is=69cf247a&hm=d17a2baa2d2c5ff5e0d51037c37f51475d2a2583f5a52c6a7e188140b60328be&=&format=webp&quality=lossless&width=100&height=100"
+      ],
+      "x": 270,
+      "y": 449
+    },
+  "whitelist": [],
+  "blacklist": []
+}
