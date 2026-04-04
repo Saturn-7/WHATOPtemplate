@@ -2,6 +2,14 @@
   "contact": "https://discord.gg/62g9EUBEKF",
   "templates": [
     {
+      "name": "We won't forget",
+      "sources": [
+        "https://media.discordapp.net/attachments/1243801991432638504/1490073368949690520/Forget.png?ex=69d2ba77&is=69d168f7&hm=eb2686d12563fd80b0ee519f2664c10b497deefbd80c0435e95b304b32ff9597&=&format=webp&quality=lossless&width=72&height=72"
+      ],
+      "x": 324,
+      "y": 373
+    },
+    {
       "name": "The Slugcats",
       "sources": [
         "https://media.discordapp.net/attachments/1489079616378372307/1490038028222075160/image.png?ex=69d2998d&is=69d1480d&hm=12cfafa383bd155a9e1b370c322bb06058893a3c75acc9f979170cb894b33263&=&format=webp&quality=lossless&width=100&height=100"
@@ -56,14 +64,6 @@
       ],
       "x": 505,
       "y": 474
-    },
-    {
-      "name": "We won't forget",
-      "sources": [
-        "https://media.discordapp.net/attachments/1243801991432638504/1490073368949690520/Forget.png?ex=69d2ba77&is=69d168f7&hm=eb2686d12563fd80b0ee519f2664c10b497deefbd80c0435e95b304b32ff9597&=&format=webp&quality=lossless&width=72&height=72"
-      ],
-      "x": 324,
-      "y": 373
     }
   ],
   "whitelist": [],
